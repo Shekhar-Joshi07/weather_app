@@ -89,7 +89,7 @@ body{
 
 .weather-box img{
     width: 60%;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .weather-box .temperature{
@@ -120,7 +120,7 @@ body{
     width: 100%;
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .weather-details .humidity, .weather-details .wind{
@@ -191,6 +191,15 @@ body{
 .fadeIn{
     animation: 0.5s fadeIn forwards;
     animation-delay: 0.5s;
+}
+
+.me{
+    width: 70%;
+    height: auto;
+    margin:auto;
+    color: white;
+    text-shadow: 2px 2px 5px #000;
+    font-style: italic;
 }
 
 @keyframes fadeIn{
