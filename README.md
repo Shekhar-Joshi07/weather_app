@@ -1,5 +1,6 @@
 <h1 align="center" id="title">Weather App</h1>
 
+
 <p>A weather app made with HTML, CSS, and JavaScript, and with the help of the OpenWeather API, is a web-based application that provides real-time weather information for a specific location.</p>
 
 
